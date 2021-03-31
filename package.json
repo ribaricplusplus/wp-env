@@ -1,6 +1,6 @@
 {
 	"name": "@ribarich/wp-env",
-	"version": "1.0.0",
+	"version": "1.0.1",
 	"description": "WordPress env fork which merges PRs faster",
 	"author": "The WordPress Contributors",
 	"license": "GPL-2.0-or-later",
