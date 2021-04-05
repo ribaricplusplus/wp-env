@@ -4,6 +4,14 @@ This is a fork of the [original](https://github.com/WordPress/gutenberg/tree/tru
 
 Do not submit PRs directly to this repository. If you want a PR that's awaiting review in Gutenberg merged, open an issue here mentioning the PR.
 
+# Usage
+
+Install from `npm` into your project:
+
+`npm i -D @ribarich/wp-env`
+
+Then use it by running `npx wp-env start`, etc. See the original package for all available commands.
+
 # Merged PRs
 
 PRs that this repo integrates which original `wp-env` doesn't:
